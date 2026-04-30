@@ -1,6 +1,6 @@
 # Restaurant Social Ghosts in Utah, US
 
-> Free BeamStation sample export with 1 rows and masked direct-contact fields.
+> Free BeamStation sample export with 4 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `249480` |
 | Location | Utah |
 | Category | Restaurants |
-| Full dataset size | 11 records |
-| Free sample size | 1 records (9.09%) |
-| Last export | 2026-04-22T16:26:45.265205+00:00 |
+| Full dataset size | 41 records |
+| Free sample size | 4 records (9.76%) |
+| Last export | 2026-04-29T16:30:30.528963+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/restaurant-social-ghosts-in-utah-us-sample-249480/releases/download/sample-latest/beamstation_249480_restaurants-us-ut_SAMPLE_DIST.csv) |
 
 ## What is in this sample
