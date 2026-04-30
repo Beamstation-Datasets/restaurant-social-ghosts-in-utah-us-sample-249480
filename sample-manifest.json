@@ -1,12 +1,12 @@
 {
-  "export_job_id": "4358646e-bca7-454d-9aba-dceff26e32e8",
+  "export_job_id": "aa844a16-3e0b-4863-99f2-a95372c1508e",
   "id_short": 249480,
-  "published_at": "2026-04-22T19:26:47Z",
+  "published_at": "2026-04-30T07:10:53Z",
   "repo_name": "restaurant-social-ghosts-in-utah-us-sample-249480",
   "sample_asset_name": "beamstation_249480_restaurants-us-ut_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/249480/beamstation_249480_restaurants-us-ut_SAMPLE_DIST.csv",
-  "sample_records": 1,
-  "sample_sha256": "3df84212632d72903ea067da76b44f8c8d733ff558466ecc606a459bf308d15f",
-  "sample_size_bytes": 20424,
-  "total_records": 11
+  "sample_records": 4,
+  "sample_sha256": "ebafb79ea21bdc374e88ddb355e71c6f42fc59d8c0bc7d6e72cdfdc07624061f",
+  "sample_size_bytes": 30533,
+  "total_records": 41
 }
